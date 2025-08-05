@@ -10,7 +10,6 @@ This repository contains curated learning materials for anyone interested in und
 4.  [Risk Management & Trading Psychology](#risk-management--trading-psychology)
 5.  [Brokerage Accounts & Trading Platforms](#brokerage-accounts--trading-platforms)
 6.  [Further Learning Resources](#further-learning-resources)
-7.  [Disclaimer](#disclaimer)
 
 ## 1. Getting Started: Understanding the Basics
 
