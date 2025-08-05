@@ -92,5 +92,3 @@ Choosing the right brokerage account and trading platform is crucial.
     *   **SSRN (Social Science Research Network):** Search for research papers related to stock trading strategies, market anomalies, and behavioral finance. (Highly technical, but useful for advanced learners).
 
 ---
-
-**Note:** This is a starting point. You can expand each section with more specific resources, examples, and tutorials. Good luck!
