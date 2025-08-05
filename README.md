@@ -7,9 +7,8 @@ This repository contains curated learning materials for anyone interested in und
 1.  [Getting Started: Understanding the Basics](#getting-started-understanding-the-basics)
 2.  [Fundamental Analysis](#fundamental-analysis)
 3.  [Technical Analysis](#technical-analysis)
-4.  [Risk Management & Trading Psychology](#risk-management--trading-psychology)
-5.  [Brokerage Accounts & Trading Platforms](#brokerage-accounts--trading-platforms)
-6.  [Further Learning Resources](#further-learning-resources)
+4.  [Risk Management](#risk-management)
+5.  [Further Learning Resources](#further-learning-resources)
 
 ## 1. Getting Started: Understanding the Basics
 
@@ -57,7 +56,7 @@ Successful trading requires effective risk management strategies.
     *   **BabyPips:** [Position Sizing](https://www.babypips.com/learn/forex/position-sizing) - Explanation of position sizing strategies.
     *   **Investopedia:** [Stop-Loss Order](https://www.investopedia.com/terms/s/stop-lossorder.asp) - Understanding how to use stop-loss orders to limit potential losses.
 
-## 6. Further Learning Resources
+## 5. Further Learning Resources
 
 *   **Books:**
     *   *The Intelligent Investor* by Benjamin Graham
