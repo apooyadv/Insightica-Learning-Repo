@@ -1,4 +1,4 @@
-# Insightica: Stock Trading for Beginners
+# Stock Trading for Beginners
 
 This repository contains curated learning materials for anyone interested in understanding stock markets and trading.  We'll explore the basics of the stock market, fundamental and technical analysis, risk management, and more.
 
