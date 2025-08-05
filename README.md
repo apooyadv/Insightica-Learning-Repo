@@ -16,7 +16,7 @@ This repository contains curated learning materials for anyone interested in und
 This section introduces the core concepts of the stock market, explaining what stocks are, how they are traded, and the roles of various participants.
 
 *   **What is the Stock Market?**
-    *   **Investopedia:** <a href="https://www.openai.com" target="_blank">Stock Market Definition</a> - A clear and concise explanation of what constitutes the stock market.
+    *   **Investopedia:** <a href="https://www.openai.com" target="_blank" rel="noopener noreferrer">Stock Market Definition</a> - A clear and concise explanation of what constitutes the stock market.
     *   **YouTube Playlist:** [Basics of Stock Market by CA Rachana Phadke Ranade](https://www.youtube.com/playlist?list=PLfG32tG_09vj-xP0w_R_dJ-bV-wU1R17o) - A comprehensive playlist that dives into the basics of the stock market, ideal for beginners.
 *   **Understanding Key Terms:**
     *   **Investopedia:** [Common Stock Terms](https://www.investopedia.com/financial-term-dictionary-4769738) - A glossary of essential stock market terms.
