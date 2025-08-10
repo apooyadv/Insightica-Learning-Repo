@@ -1,6 +1,6 @@
 # Algorithmic Trading Resource Guide
 
-A brief and curated list of top resources for learning algorithmic trading — including courses, books, guides, platforms, and communities.
+A brief and curated list of top resources for learning algorithmic trading.
 
 ---
 
@@ -13,7 +13,7 @@ A brief and curated list of top resources for learning algorithmic trading — i
   - [Machine Learning for Trading Specialisation](https://www.coursera.org/specializations/machine-learning-trading)
 
 - **NSE India Module**
-  - [NSE Algorithmic Trading Module](https://www.nseindia.com/learning/modular-courses)
+  - [NSE Algorithmic Trading Module](https://www.nseindia.com/learn/self-study-ncfm-modules-advanced-algorithmic-trading-module)
 
 - **EPAT by QuantInsti**
   - [EPAT Executive Programme](https://www.quantinsti.com/epat)
@@ -33,21 +33,3 @@ A brief and curated list of top resources for learning algorithmic trading — i
 
 ---
 
-## Practical Guides & Blogs
-
-- [Groww Guide: Python for Algorithmic Trading](https://groww.in/blog/algorithmic-trading-with-python)
-- [QuantInsti Beginner-Friendly Free Courses](https://blog.quantinsti.com/learn-algorithmic-trading/)
-
----
-
-## Tools, Libraries & Frameworks
-
-| Tool/Library   | Purpose                                                   | Link                                                   |
-|----------------|-----------------------------------------------------------|--------------------------------------------------------|
-| Freqtrade      | Open-source crypto trading bot for live & paper trading   | https://github.com/freqtrade/freqtrade                 |
-| Hummingbot     | Market making/automated trading bot (crypto)              | https://github.com/hummingbot/hummingbot               |
-| Lean           | Trading engine/strategy research by QuantConnect (multi)  | https://github.com/QuantConnect/Lean                   |
-
----
-
-> This list covers essential learning for both beginners and advanced practitioners: Python, frameworks, guides, validated books, and community support.
