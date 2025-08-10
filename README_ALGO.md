@@ -32,12 +32,11 @@ A comprehensive collection of resources for mastering algorithmic trading, cover
 ## Trading Strategies & Research
 
 ### Mean Reversion Strategies
-- [Mean Reversion Trading Strategy Guide](https://www.quantstart.com/articles/Mean-Reversion-Trading-Strategy)
+- [Mean Reversion Trading Strategy Guide](https://www.investopedia.com/terms/m/meanreversion.asp)
 - [Pairs Trading Algorithm](https://www.investopedia.com/articles/trading/04/090804.asp)
-- [Statistical Arbitrage Techniques](https://www.quantstart.com/articles/Statistical-Arbitrage)
 
 ### Momentum Strategies
-- [Momentum Trading Strategies](https://www.investopedia.com/articles/trading/05/020205.asp)
+- [Momentum Trading Strategies](https://www.investopedia.com/trading/introduction-to-momentum-trading/)
 - [Moving Average Crossover Systems](https://www.babypips.com/learn/forex/moving-average-crossover-trade)
 - [Breakout Trading Algorithms](https://www.investopedia.com/articles/trading/08/trading-breakouts.asp)
 
