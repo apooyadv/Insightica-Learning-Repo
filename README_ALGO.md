@@ -29,10 +29,6 @@ A comprehensive collection of resources for mastering algorithmic trading, cover
 
 ### Python Resources
 - [Python for Finance Course](https://www.datacamp.com/courses/introduction-to-python-for-finance)
-- [Pandas for Financial Data Analysis](https://pandas.pydata.org/docs/user_guide/timeseries.html)
-- [TA-Lib Documentation](https://mrjbq7.github.io/ta-lib/) - Technical Analysis Library
-- [Zipline Algorithmic Trading Library](https://zipline.ml4trading.io/)
-
 ## Trading Strategies & Research
 
 ### Mean Reversion Strategies
