@@ -1,55 +1,57 @@
-Courses & Tutorials
-Udemy Courses: Comprehensive paid and free courses covering the basics, practical bot building with Python, and options strategies.
+# Algorithmic Trading Resource Guide
 
-Algorithmic Trading A-Z
+A brief and curated list of top resources for learning algorithmic trading — including courses, books, guides, platforms, and communities.
 
-Algorithmic Trading and Quantitative Analysis with Python
+---
 
-Coursera Specialization: University-driven courses on trading algorithms and machine learning for trading.
+## Courses & Tutorials
 
-Machine Learning for Trading Specialisation
+- **Udemy Courses**
+  - [Algorithmic Trading A-Z](https://www.udemy.com/course/algorithmic-trading/)
+  - [Algorithmic Trading and Quantitative Analysis with Python](https://www.udemy.com/course/algorithmic-trading-quantitative-analysis-using-python/)
 
-NSE India Module: Authority-led practical module for Indian markets.
+- **Coursera Specialization**
+  - [Machine Learning for Trading Specialisation](https://www.coursera.org/specializations/machine-learning-trading)
 
-NSE Algorithmic Trading Module
+- **NSE India Module**
+  - [NSE Algorithmic Trading Module](https://www.nseindia.com/learning/modular-courses)
 
-EPAT by QuantInsti: Professional credential for advanced quantitative & algorithmic trading.
+- **EPAT by QuantInsti**
+  - [EPAT Executive Programme](https://www.quantinsti.com/epat)
 
-EPAT Executive Programme
+- **YouTube Playlists**
+  - [Algorithmic Trading Playlist by Dhan (Hindi)](https://www.youtube.com/playlist?list=PLDml2sVdpj3eziFdxFodPiKfdvnAxpLcs)
+  - [Machine Learning & Quant Strategies by freeCodeCamp.org](https://www.youtube.com/watch?v=xfzGZB4HhEE)
 
-YouTube Playlists:
+---
 
-Algorithmic Trading Playlist by Dhan (Hindi)
+## Textbooks & Reading
 
-Machine Learning & Quant Strategies by freeCodeCamp.org
+- [Essential Books on Algorithmic Trading](https://blog.quantinsti.com/essential-algorithmic-trading-books/)
+- *Algorithmic Trading: Winning Strategies and Their Rationale* — Dr. Ernest Chan
+- *Options, Futures, and Other Derivatives* — John Hull
 
-Textbooks & Reading
-Essential Books:
+- **Machine Learning for Algorithmic Trading**
+  - [Machine Learning for Algorithmic Trading Textbook (Studylib)](https://studylib.net/doc/26311034/machine-learning-for-algorithmic-trading-predictive)
+  - [Companion GitHub Code Repository](https://github.com/PacktPublishing/MachineLearning-for-Algorithmic-Trading-Second-Edition)
 
-Essential Books on Algorithmic Trading
+---
 
-Algorithmic Trading: Winning Strategies and Their Rationale – Dr. Ernest Chan
+## Practical Guides & Blogs
 
-Options, Futures, and Other Derivatives – John Hull
+- [Groww Guide: Python for Algorithmic Trading](https://groww.in/blog/algorithmic-trading-with-python)
+- [QuantInsti Beginner-Friendly Free Courses](https://blog.quantinsti.com/learn-algorithmic-trading/)
 
-Machine Learning for Algorithmic Trading (covers predictive signals, backtesting, feature engineering, and Python workflows)
+---
 
-Machine Learning for Algorithmic Trading Textbook (Studylib)
+## Tools, Libraries & Frameworks
 
-Companion GitHub Code Repository
+| Tool/Library   | Purpose                                                   | Link                                                   |
+|----------------|-----------------------------------------------------------|--------------------------------------------------------|
+| Freqtrade      | Open-source crypto trading bot for live & paper trading   | https://github.com/freqtrade/freqtrade                 |
+| Hummingbot     | Market making/automated trading bot (crypto)              | https://github.com/hummingbot/hummingbot               |
+| Lean           | Trading engine/strategy research by QuantConnect (multi)  | https://github.com/QuantConnect/Lean                   |
 
-Practical Guides & Blogs
-Groww Guide: Python for Algorithmic Trading
+---
 
-QuantInsti Beginner-Friendly Free Courses
-
-Tools, Libraries & Frameworks
-Tool/Library	Purpose	Link
-Freqtrade	Open-source crypto trading bot for live & paper trading	https://github.com/freqtrade/freqtrade
-Hummingbot	Market making/automated trading bot (crypto)	https://github.com/hummingbot/hummingbot
-Lean	Trading engine/strategy research by QuantConnect (multi)	https://github.com/QuantConnect/Lean
-Python Quantitative Toolkits:
-
-Zipline, Alphalens: for backtesting and evaluating factor strategies (GitHub search for Quantitative Trading Libraries)
-
-yfinance, Quandl: Accessing financial data
+> This list covers essential learning for both beginners and advanced practitioners: Python, frameworks, guides, validated books, and community support.
