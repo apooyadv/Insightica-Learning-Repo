@@ -23,7 +23,7 @@ A brief and curated list of top resources for learning algorithmic trading.
 
 ---
 
-## Textbooks & Reading
+## Textbooks
 
 - *Algorithmic Trading: Winning Strategies and Their Rationale* — Dr. Ernest Chan
 - *Options, Futures, and Other Derivatives* — John Hull
