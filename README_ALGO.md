@@ -11,14 +11,14 @@ A comprehensive collection of resources for mastering algorithmic trading, cover
 
 ### Core Concepts Articles
 - [Introduction to Algorithmic Trading](https://www.investopedia.com/articles/active-trading/101014/basics-algorithmic-trading-concepts-and-examples.asp)
-- [Market Microstructure for Practitioners](https://www.quantstart.com/articles/market-microstructure-for-practitioners)
+- [Market Microstructure for Practitioners](https://www.acsu.buffalo.edu/~keechung/MGF743/Readings/Trading-Exchanges-Market-Microstructure-Practitioners%20Draft%20Copy.pdf)
 - [Risk Management in Algorithmic Trading](https://www.investopedia.com/articles/trading/09/risk-management.asp)
 
 ## Video Learning Resources
 
 ### YouTube Playlists
 - [QuantInsti Algorithmic Trading Course](https://www.youtube.com/playlist?list=PLD7IrLyN7uvLSQ9sVpcyn_Mp8dVhrOZNH)
-- [Algorithmic Trading with Python](https://www.youtube.com/playlist?list=PLQVvvaa0QuDeAams7fkdcwOGBpGdHpXyP)
+- [Algorithmic Trading with Python](https://youtu.be/xfzGZB4HhEE?si=vfGJH6mpoS4CPO-w)
 
 ### Educational Channels
 - [QuantInsti](https://www.youtube.com/QuantInsti) - Comprehensive algo trading education
