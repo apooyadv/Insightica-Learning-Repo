@@ -7,7 +7,6 @@ A brief and curated list of top resources for learning algorithmic trading — i
 ## Courses & Tutorials
 
 - **Udemy Courses**
-  - [Algorithmic Trading A-Z](https://www.udemy.com/course/algorithmic-trading/)
   - [Algorithmic Trading and Quantitative Analysis with Python](https://www.udemy.com/course/algorithmic-trading-quantitative-analysis-using-python/)
 
 - **Coursera Specialization**
@@ -20,20 +19,17 @@ A brief and curated list of top resources for learning algorithmic trading — i
   - [EPAT Executive Programme](https://www.quantinsti.com/epat)
 
 - **YouTube Playlists**
-  - [Algorithmic Trading Playlist by Dhan (Hindi)](https://www.youtube.com/playlist?list=PLDml2sVdpj3eziFdxFodPiKfdvnAxpLcs)
-  - [Machine Learning & Quant Strategies by freeCodeCamp.org](https://www.youtube.com/watch?v=xfzGZB4HhEE)
+  - [Algorithmic Trading with Python](https://www.youtube.com/watch?v=xfzGZB4HhEE)
 
 ---
 
 ## Textbooks & Reading
 
-- [Essential Books on Algorithmic Trading](https://blog.quantinsti.com/essential-algorithmic-trading-books/)
 - *Algorithmic Trading: Winning Strategies and Their Rationale* — Dr. Ernest Chan
 - *Options, Futures, and Other Derivatives* — John Hull
 
 - **Machine Learning for Algorithmic Trading**
   - [Machine Learning for Algorithmic Trading Textbook (Studylib)](https://studylib.net/doc/26311034/machine-learning-for-algorithmic-trading-predictive)
-  - [Companion GitHub Code Repository](https://github.com/PacktPublishing/MachineLearning-for-Algorithmic-Trading-Second-Edition)
 
 ---
 
